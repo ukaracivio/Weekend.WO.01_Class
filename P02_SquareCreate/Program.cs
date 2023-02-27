@@ -27,7 +27,7 @@
 
                 }
 
-                Console.WriteLine(); // Yeni satıra atlama....
+                Console.WriteLine(); // Yeni satıra atlama.... 
             }
         }
         else
