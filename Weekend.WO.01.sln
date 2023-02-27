@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02_SquareCreate", "P02_SquareCreate\P02_SquareCreate.csproj", "{FE9DE573-1A1D-453D-8F90-4CB2BCE308E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01_SalaryCalculation", "P01_SalaryCalculation\P01_SalaryCalculation.csproj", "{331740F9-F0EA-41A3-9344-A987100F9C35}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FE9DE573-1A1D-453D-8F90-4CB2BCE308E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE9DE573-1A1D-453D-8F90-4CB2BCE308E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE9DE573-1A1D-453D-8F90-4CB2BCE308E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{331740F9-F0EA-41A3-9344-A987100F9C35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{331740F9-F0EA-41A3-9344-A987100F9C35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{331740F9-F0EA-41A3-9344-A987100F9C35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{331740F9-F0EA-41A3-9344-A987100F9C35}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
